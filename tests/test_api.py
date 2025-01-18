@@ -1,6 +1,6 @@
 import pytest
 import allure
-from Diploma.Diploma.pages.api_page import ApiPage
+from pages.api_page import ApiPage
 from settings import api_url, my_headers
 
 
